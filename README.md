@@ -40,7 +40,6 @@ Hey there! I'm a Full-stack developer (PostgresSQL, MongoDB, React.js, Express.j
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
 
----
 
 ## 🔍 What I'm Up To
 
@@ -49,7 +48,6 @@ Hey there! I'm a Full-stack developer (PostgresSQL, MongoDB, React.js, Express.j
 - 💞️ Collaborate on Open Source Projects
 - 🎯 Actively seeking **junior software developer** opportunities
 
----
 
 # My Stats 📈
 
@@ -65,8 +63,6 @@ Hey there! I'm a Full-stack developer (PostgresSQL, MongoDB, React.js, Express.j
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smsarfroz&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
----
-
 ## 🏆 Featured Projects
 
 #### [SarfrozWorld](https://sarfrozworld-ms.vercel.app/)
@@ -81,12 +77,9 @@ A full-stack photo tagging game where players search for hidden characters in de
 
 My personal portfolio site showcasing my projects and skills with a clean, responsive design built from scratch with custom CSS.
 
----
 
 ### 📫 Let's Connect
 
 I'm currently seeking junior fullstack developer opportunities where I can contribute my skills and continue to grow. Feel free to reach out via  [email](mailto:ssarfroz@gmail.com)!
-
----
 
 
